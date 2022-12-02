@@ -17,3 +17,5 @@ print(mean(Ecks))
 
 Z<- c(3, 8, 4, 6, 7)
 print(mean(Z))
+
+
