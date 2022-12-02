@@ -1,4 +1,4 @@
-# R R R R R R more R
+# This is the header page
 
 THIS IS WHERE YOU PRINT YOUR INTRO
 
